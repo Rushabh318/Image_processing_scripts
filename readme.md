@@ -1,4 +1,4 @@
-** Repository of some useful .py scripts for image data processing for deep learning trainings and inference
+**Repository of some useful .py scripts for image data processing for deep learning trainings and inference**
 
 bag2png.py - Extract .png images from rosbags
 
